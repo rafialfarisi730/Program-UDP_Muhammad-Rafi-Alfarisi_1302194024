@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1635707888 source:c:\users\m.rafi alfarisi\documents\program udp_muhammad rafi alfarisi_1302194024\udp.cpp
+	"udp.h"
+	<iostream>
+	<string.h>
+	<math.h>
+
+1635707915 c:\users\m.rafi alfarisi\documents\program udp_muhammad rafi alfarisi_1302194024\udp.h
+
